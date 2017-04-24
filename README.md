@@ -66,4 +66,105 @@ What were aspects of the presentations for which you had concerns or questions:
 
 
 
+Title of presentation: Videogame: League of Legends
+
+What were aspects of the presentation that you liked:
+1. Fun idea to study and interesting; however, practically speaking, there are so many updates to this game that you could only gain an advantage for about a week before the game changes.
+2. The presentation slides had interesting transitions
+
+What were aspects of the presentations for which you had concerns or questions:
+1. The description of the data was not clear.  I am still unsure what a row of data for this group looks like.
+2. Could not read all writing on slides
+3. Tremendously confusing in answering questions
+4. I am not sure what your goal of this project is...  to see what characters are the best?  what teams are the best?  what strategy is the best?  What is your thesis?
+5. No helpful plots were shown (except the plot about percetage of peeople who play this game).
+
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked:
+1. Great description of why you are doing this project
+2. Good maps comparing number of H1B applicants and percentage of democratic voters.
+3. Good explaination of models used.
+4. Clear that all members have a contributed to the team, or at least know what is going on, or faked it really well.
+
+What were aspects of the presentations for which you had concerns or questions:
+1. Cluster analysis plots are confusing.
+2. Clearly define the types of companies between STEM and non-STEM and how many there are
+3. Thesis statement is bland.
+
+
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked:
+1. Described how you handled NA values.
+2. Gave reasonable reasons for why manipulations where done to the data
+3. Interesting maps and plots, showed plots that I wanted to see, led me through data exploration nicely
+
+What were aspects of the presentations for which you had concerns or questions:
+1. Too many residual plots.
+2. What were your conclusions?
+3. I do not understand why you made certain transformations on the residual plots
+4. Why should I be interested in this project?
+
+
+
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked:
+1. Interesting plots of sentiment of words used, liked the proportion of positive/negative words used plot.
+2. Fun to look at rhyming, but how do you control for similar sounding words that do not rhyme (like magician and profesion)
+3. You are all clearly very excited about this project and have put forth much effort
+
+What were aspects of the presentations for which you had concerns or questions:
+1. Would be nice to have text on slides to highlight main points
+2. Lots of description, but not sure of the point of the project
+3. Presentation lacked clear communication
+
+
+
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked:
+1. Great plots to hightlight key, recognizable players
+2. Lots of really interesting questions
+3. Many different directions for interest, but this is a dangerous direction to go
+
+What were aspects of the presentations for which you had concerns or questions:
+1. Made hypothesis during the "shot attempt" section, but did not see data to support it
+2. The reason Curry makes a higher percentage closer to the hoop is not because defenders overplay him away from the hoop, it is because closer shots are easier shots to make
+3. Define: CLE stands for Cleveland
+4. Took a long time to present
+5. Thesis was just a statement of what you found
+
+
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked:
+1. Helpful visualizations
+2. Cool visual plots across time
+3. It is clear you are very passionate about this project
+
+What were aspects of the presentations for which you had concerns or questions:
+1. Presentation took a long time
+2. Seems like there could be more attacks because there are more people or that there are more attacks in developing areas because it does not make much sense to terrorize an undeveloped area
+3. Very confused on what your model found, not sure how to interpret it
+4. Do you control for population?
+
+
+
 
